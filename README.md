@@ -17,4 +17,3 @@ A clean and responsive landing page built using only HTML and CSS. This project 
 
 - HTML5
 - CSS3
-- Google Fonts
